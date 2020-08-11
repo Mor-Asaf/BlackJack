@@ -48,6 +48,9 @@ def deal_card(frame):
     return next_card
 
 
+def mor();
+    print("Mor says hello")
+
 def score_hand(hand):
     # Calculate the total score of all cards in the list.
     # Only one ace can have the value 11, and this will be reduce to 1 if the hand would bust.
